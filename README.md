@@ -85,16 +85,16 @@ their liberties) and might be captured in the next move of the opponent
 Configuration of the program should make it possible to easily change all parameters, not only those
 explicitly pointed in the above description. Easy change is understood as modification of a constant in
 the program.
-• The project can be written in an object oriented manner, however it is forbidden to use the standard C++
+- • The project can be written in an object oriented manner, however it is forbidden to use the standard C++
 library (including the string type, cin, cout, vector etc.)(Attention: the string type from the C++ library
 should not be confused with the string.h library in C – functions from string.h can be used).
-• Handling of files should be implemented with the usage of the standard C library (family of functions
+- • Handling of files should be implemented with the usage of the standard C library (family of functions
 f???? - e.g. fopen, fread, fclose etc.). C++ mechanisms (e.g. fstream) can not be used to this end.
-• Each fragment of code subjected to grading should be written by the student independently. Using a
+- • Each fragment of code subjected to grading should be written by the student independently. Using a
 code found on the Internet, received from other people or written with help from other people (excluding
 help received during project consultations) is forbidden.
-• Pay attention to a proper division of code into functions in order to avoid duplication of code. For
+- • Pay attention to a proper division of code into functions in order to avoid duplication of code. For
 example it might occur, that in few given points a code which checks whether a given digit meets the
 requirements of a given rule in a given field. In this case placing such a code inside a function, which
 is next called in appropriate places, is natural and encouraged.
-• Constant units in the program should be described by appropriate comments.
+- • Constant units in the program should be described by appropriate comments.
