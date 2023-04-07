@@ -1,5 +1,4 @@
 # Go
-# 
 ![Exemplary gameplay](exemplary-gameplay.png)
 # Basics of the game of Go
 Go is an abstract strategy board game for exactly two players. The goal of the game is to surround (“conquer”)
