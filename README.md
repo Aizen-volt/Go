@@ -1,8 +1,8 @@
 # The game of Go
 
 Go is an abstract strategy board game for two players in which the aim is to surround more territory than the opponent. The simplified rules are:
-- Game is played on a square boards with 19 lines crossing the board horizontally and 19 lines crossing the board vertically (361 intersections)
-- Players put black and white stones on the intersections, one stone at the time. The player that plays with the black ones is the one that starts
+- Game is played on square boards with 19 lines crossing the board horizontally and 19 lines crossing the board vertically (361 intersections)
+- Players put black and white stones on the intersections, one stone at the time. Black player starts
 - Goal is to surround the largest surface on the board using your own stones
 - A stone that was put on the board stays there unless it is captured
 - Stone is captured when it is surrounded by either stones of a opposing color or edge of the board
