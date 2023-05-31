@@ -11,6 +11,9 @@ Go is an abstract strategy board game for two players in which the aim is to sur
 - The Ko rule has to be kept – stones on the board can't repeat a previous position. Moves leading to that are forbidden that turn
 
 
+## Library
+The project uses conio.h library for semi-graphic interface in console
+
 ## Functionalities
 - Creating games of any board size
 - Game saving / loading
