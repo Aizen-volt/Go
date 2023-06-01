@@ -22,6 +22,6 @@ The project uses conio.h library for semi-graphic interface in console
 - Game state editor - configuration of black stones on board before the game starts
 - Scoring (Japanese variant)
 - Marking stones with one liberty left
-## Exemplary gameplay
+## Gameplay
 
 ![Exemplary gameplay](exemplary-gameplay.png)
